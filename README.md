@@ -9,7 +9,7 @@ This repository serves as an open-source monitoring index mapping institutional 
 ## Structural Metrics Monitored
 
 ### 1. Legal Asymmetry (Statutory Disparities)
-Monitors the material and civic contradictions between the Israeli Law of Return (1950)—which grants immediate citizenship to global converts—and the absolute denial of residency and property rights to continuous, indigenous Palestinian populations holding documented land deeds.
+Monitors the material and civic contradictions between the Israeli Law of Return (1950), which creates a legal pathway to immigration and citizenship for Jews and, subject to statutory conditions, certain children, grandchildren, and spouses, and the denial of an equivalent right of return to Palestinians displaced from homes and communities in 1948 and their descendants.
 
 ### 2. Technological Complicity (Project Nimbus)
 Tracks the infrastructure of automated occupation, specifically the $1.2 billion cloud computing and AI contract held by Google and Amazon with the Israeli military establishment. Documents the contractual insulation preventing services from being terminated due to human rights violations or employee interventions.
